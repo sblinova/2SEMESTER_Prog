@@ -13,3 +13,10 @@
 &emsp;4 Programma, kas zīme **Pitagora koku** <br />
 &emsp;5 Programma, kas zīme **Serpinska trijstūri** <br />
 &emsp;PU1 Programma, kas zīme zīmējumu ar **rekursiju** <br />
+### 03
+&emsp;1 Programma, kas zīme **Serpinska paklāju** ar **rekursiju** un <ins>tkinter</ins> <br />
+&emsp;2 Programma, kas zīme **Koha zavaigzni** ar **rekursiju** un <ins>tkinter</ins> <br />
+&emsp;3 Programma, kas ar **rekursiju** saskaita dazāda krāsa pērlītes n-tā rindā <br />
+&emsp;4 Programma, kas no n skaitļu **nejauši** ģenerēto intervālā [-100, 100] **saraksta**, veido jaunu sarkstu ar **kortežiem**, kur 1. elements ir skaitļa kārtas numurs pirmājā sarakstā un otrais pati skaitlis, kas lielāks par ievadīto x <br /> 
+&emsp;5 Programma, kas ar <ins>tkinter</ins> atļauj veikt darbības ar daļam (**poga, kas maina uzrakstu**, **pārbaude ar ievades lauciņa krāsas maiņu**, **deaktivēta poga**) <br />
+&emsp;PU2 5.uzdevuma papildinājums ar rezultējošas daļas **vesela izteikšanu** <br />
