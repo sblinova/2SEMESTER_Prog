@@ -20,3 +20,8 @@
 &emsp;4 Programma, kas no n skaitļu **nejauši** ģenerēto intervālā [-100, 100] **saraksta**, veido jaunu sarkstu ar **kortežiem**, kur 1. elements ir skaitļa kārtas numurs pirmājā sarakstā un otrais pati skaitlis, kas lielāks par ievadīto x <br /> 
 &emsp;5 Programma, kas ar <ins>tkinter</ins> atļauj veikt darbības ar daļam (**poga, kas maina uzrakstu**, **pārbaude ar ievades lauciņa krāsas maiņu**, **deaktivēta poga**) <br />
 &emsp;PU2 5.uzdevuma papildinājums ar rezultējošas daļas **vesela izteikšanu** <br />
+### 04
+&emsp;1 Programma ar funkcijam, kas veic jauna <ins>numpy</ins> masīva izveidi, piepildīšanu ar datiem, izvadi, mazāka un lielāka elementa atrašanu <br />
+&emsp;2 Programma, kas ar lietotāja ievadita masīva elementiem veic **vidēja aritmētiska**, **vidēja kvadrātiska**, **vidēja ģeometrika**, **vidēja harmoniska**, **standartnovirzes** un **vidējas absolūtas novirzes** vērtību <br />
+&emsp;3 Programma, kas aprēķina **vidēja svērtā** vērtību diviem masīviem, kur viens ir ar vērtībam, otrs ar vērtības skaitu <br /> 
+&emsp;4 Programma, kas aprēķina **lineāras korelācijas koeficientu** diviem masīviem <br /> 
