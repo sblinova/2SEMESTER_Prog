@@ -25,3 +25,11 @@
 &emsp;2 Programma, kas ar lietotāja ievadita masīva elementiem veic **vidēja aritmētiska**, **vidēja kvadrātiska**, **vidēja ģeometrika**, **vidēja harmoniska**, **standartnovirzes** un **vidējas absolūtas novirzes** vērtību <br />
 &emsp;3 Programma, kas aprēķina **vidēja svērtā** vērtību diviem masīviem, kur viens ir ar vērtībam, otrs ar vērtības skaitu <br /> 
 &emsp;4 Programma, kas aprēķina **lineāras korelācijas koeficientu** diviem masīviem <br /> 
+### 05
+&emsp;1
+&emsp;2
+&emsp;PU
+### 06 
+&emsp;1
+&emsp;2
+&emsp;PU
