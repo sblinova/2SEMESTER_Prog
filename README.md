@@ -26,10 +26,22 @@
 &emsp;3 Programma, kas aprēķina **vidēja svērtā** vērtību diviem masīviem, kur viens ir ar vērtībam, otrs ar vērtības skaitu <br /> 
 &emsp;4 Programma, kas aprēķina **lineāras korelācijas koeficientu** diviem masīviem <br /> 
 ### 05
-&emsp;1
-&emsp;2
-&emsp;PU
+&emsp;1 Programma, kas veic masīva **kārtošanu** dilstošā secībā 5 veidos (***Bubble***, ***Shell***) <br />
+&emsp;2 Programma, kas atrod skaitļu masīva elementu **madiānu** <br /> 
+&emsp;PU Programma, kas atrod skaitļu masīva elementu **modu** <br /> 
 ### 06 
-&emsp;1
-&emsp;2
+&emsp;1 Programma, kas veic masīva **kārtošānu** dilstošā secība 3 veidos (***Ātrā*** Hoara metode, ***Saliešanas*** metode, ***Timsort***) <br />
+&emsp;2 
 &emsp;PU
+### 07
+&emsp;
+### 08
+&emsp;
+### 09
+&emsp;
+### 10
+&emsp;
+### 11
+&emsp;
+### 12
+&emsp;
