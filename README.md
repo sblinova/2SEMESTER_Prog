@@ -34,14 +34,26 @@
 &emsp;2 Programma, kas veic 3 dažāda izmēra masīvu **apvienošanu** un **kārtošanu** (zinot kuri masīvi augošie, kuri dilstošie) <br />
 &emsp;PU Programma, kas veic 3 dažāda izmēra masīvu **apvienošanu** un **kārtošanu** (nezinot kuri ir augošie vai dilstošie) <br />
 ### 07
-&emsp;
+&emsp;1 Programma, kas **meklē** un nosaka meklēta vārda **atrašanas vietu** nejauši ģenerēta vārdu masīva <br />
+&emsp;2 Programma, kas veic divu naturālo skaitļu **saskaitīšanu** *stabiņā* <br />
+&emsp;3 Programma, kas veic divu naturālo skaitļu **atņemšanu** *stabiņā* <br />
+&emsp;4 Programma, kas veic divu naturālo skaitļu **reizināšanu** *stabiņā* <br />
 ### 08
-&emsp;
+&emsp;1 Programma, kas izvada matricu (**divdimensijas masīvs**) tabulas veidā un atrod tās lielāko un mazāko elementu ar to atrašanas vietām <br /> 
+&emsp;2 Programma, kas veic divu **matricu reizināšanu** vai **attiecīgo elementu reizināšanu** <br />
+&emsp;3 Programma, kas nosaka vai matrica veido **maģisko kvadrātu** <br />
+&emsp;4 Programma, kas saskaita **diagonāļu elementu summas** <br />
 ### 09
-&emsp;
-### 10
-&emsp;
+&emsp;1 Programma, kas reālize **biļešu iegādi** <br />
+&emsp;2 Programma, kas veic **labirinta** izveidi ar šķēršļiem un pārbauda vai to iespējams iziet <br />
+&emsp;3 Programma, kas aprēķina matricas **determinantu** <br />
+### 10 (*set*)
+&emsp;1 Programma, kas realizē **Latloto** 5 no 35 izlozi <br />
+&emsp;2 Programma, kas realizē 4 spēlētāju **karšu izvadi** <br />
+&emsp;3 Programma, kas pārbauda vai lietotāja ievadīts **sudoku** ir pareizi atrisināts <br />
 ### 11
-&emsp;
+&emsp;1 Programma, kas realizē eksāmena simulāciju (*set*) <br />
+&emsp;2 Programma, kas izveido **klasi** Taisnsturis un izvada objekta perimetru un laukumu <br />
+&emsp;3 Programma, kas izveido **klasi** Trijsturis ar noteiktam metodēm
 ### 12
 &emsp;
