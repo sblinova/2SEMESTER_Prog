@@ -56,4 +56,16 @@
 &emsp;2 Programma, kas izveido **klasi** Taisnsturis un izvada objekta perimetru un laukumu <br />
 &emsp;3 Programma, kas izveido **klasi** Trijsturis ar noteiktam metodēm
 ### 12
-&emsp;
+&emsp;1 Programma, kas realizē Nomas punkta darbību <br />
+&emsp;2 Programma, kas nosaka dažādu figūru apkārtmēru un laukumu <br />
+### 13
+&emsp;1 Programma, kas realizē veikala simulāciju <br />
+&emsp;2 Programma, kas realizē darbības ar kompleksiem skaitļiem <br />
+&emsp;3 Programma, kas aprēķina n-stūra laukumu <br />
+### 14
+&emsp;1 Programma, kas pārraksta informāciju no vienas **datnes** uz otro, pārveidojot burtu par uppercase <br />
+&emsp;2 Programma, kas teksta **datnē** saņem katra burta **biežumu** <br />
+&emsp;3 Programma, kas veic teksta šifrēšanu un atšifrēšanu ar **Cēzara algoritmu** <br />
+&emsp;PU1 Programma, kas teksta datnē saņem katra **latviešu burta** biežumu <br />
+&emsp:PU2 Programma, kas veic teksta šifrēšanu un atšifrēšanu ar **Cēzara šifru** <br />
+
