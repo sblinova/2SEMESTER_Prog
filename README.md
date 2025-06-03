@@ -68,4 +68,8 @@
 &emsp;3 Programma, kas veic teksta šifrēšanu un atšifrēšanu ar **Cēzara algoritmu** <br />
 &emsp;PU1 Programma, kas teksta datnē saņem katra **latviešu burta** biežumu <br />
 &emsp:PU2 Programma, kas veic teksta šifrēšanu un atšifrēšanu ar **Cēzara šifru** <br />
-
+### 15
+&emsp;1 Programma, kas veic teksta ar latīņu burtiem šifrēšanu un atšifrēšanu pēc **skaitliskas atslēgas metodes** <br />
+&emsp;2 Programma, kas veic teksta šifrēšanu un atšifrēšānu, izmantojot **Morzes kodu** <br />
+&emsp;PU1 Programma, kas veic teksta ar latviešu burtiem šifrēšanu un atšifrēšanu pēc **skaitliskas atslēgas metodes** <br />
+&emsp;PU2 Programma, kas veic **grafisku** teksta šifrēšanu, izmantojot **Morzes kodu** <br />
